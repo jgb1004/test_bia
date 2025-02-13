@@ -29,8 +29,8 @@ La solución está compuesta por los siguientes componentes:
 ### Opción 1: Ejecutar en entorno local
 ```sh
 # Clonar el repositorio
-git clone https://github.com/tu-repositorio.git
-cd nombre-del-proyecto
+git clone https://github.com/jgb1004/test_bia.git
+cd bia
 
 # Crear y activar entorno virtual
 python -m venv venv
