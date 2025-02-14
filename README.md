@@ -12,6 +12,8 @@ La solución está compuesta por los siguientes componentes:
 4. **Almacenamiento en MongoDB**: Se almacena la información en una colección optimizada con índices geoespaciales.
 5. **Generación de reportes**: Cálculo de estadísticas de calidad de datos y exportación a formatos CSV y JSON.
 
+![Arquitectura del Proyecto](https://app.diagrams.net/#G1zEOp5leSCJcEMU6Sz1ZlkLlse67mm_7U#%7B%22pageId%22%3A%22RWAs8l1GX5JY4PsuehIY%22%7D)
+
 ## Tecnologías utilizadas 🛠️
 - **Python**: Procesamiento de datos y consumo de API.
 - **MongoDB**: Almacenamiento de datos con optimización geoespacial.
