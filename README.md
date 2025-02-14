@@ -12,7 +12,7 @@ La solución está compuesta por los siguientes componentes:
 4. **Almacenamiento en MongoDB**: Se almacena la información en una colección optimizada con índices geoespaciales.
 5. **Generación de reportes**: Cálculo de estadísticas de calidad de datos y exportación a formatos CSV y JSON.
 
-![Diagrama de Arquitectura](docs/Arquitectura Test BIA.png)
+![Diagrama de Arquitectura]("docs/ArquitecturaTestBIA.png")
 
 ## Tecnologías utilizadas 🛠️
 - **Python**: Procesamiento de datos y consumo de API.
